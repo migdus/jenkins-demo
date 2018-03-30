@@ -1,4 +1,4 @@
-package com.migueldussan;
+package com.migueldussan.example.jenkins;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

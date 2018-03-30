@@ -1,4 +1,4 @@
-package com.migueldussan;
+package com.migueldussan.example.jenkins;
 
 /**
  * Hello world!
