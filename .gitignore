@@ -3,6 +3,8 @@ target
 /**/.idea
 *.iml
 
+*.swp
+
 # Compiled class file
 *.class
 
