@@ -22,5 +22,5 @@ volume_rm:
 	-docker volume rm $(VOLUME)
 
 image_rm:
-	-docker image rm -f jenkins/jenkins:lts
+	-docker image rm -f $(IMAGE)
 
